@@ -1,0 +1,11 @@
+执行之前先备份
+
+1, 先检查sku
+2，执行 bob-migrate.sql
+3, 先执行Product Type, 按照Product Name.jpg
+4, 修改 altnames , 按照ALTnames.jpg
+5, 修改 product Type 2, 先执行product Type 2.jpg
+6,
+
+
+执行完成后， 清除缓存

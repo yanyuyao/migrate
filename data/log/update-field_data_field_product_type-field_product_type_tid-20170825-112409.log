@@ -1,0 +1,733 @@
+SKU : [BA010001]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010002]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010003]	 field_product_type_tid is same , no change; 	 OLD[166]  NEW[166] 
+SKU : [BA010004]	 field_product_type_tid is same , no change; 	 OLD[166]  NEW[166] 
+SKU : [BA010005]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010006]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010007]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010008]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010009]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010010]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010011]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010012]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010013]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010014]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010015]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010016]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010017]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010018]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010019]	 field_product_type_tid is same , no change; 	 OLD[162]  NEW[162] 
+SKU : [BA010020] 	 field_product_type_tid changed; [entity_id: 5895] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010021] 	 field_product_type_tid changed; [entity_id: 5896] 	 from [100] to [161] 	 execute result : 1 
+SKU : [BA010022] 	 field_product_type_tid changed; [entity_id: 5897] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010023] 	 field_product_type_tid changed; [entity_id: 5898] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010024] 	 field_product_type_tid changed; [entity_id: 5899] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010025] 	 field_product_type_tid changed; [entity_id: 5900] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010026] 	 field_product_type_tid changed; [entity_id: 5901] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010027] 	 field_product_type_tid changed; [entity_id: 5902] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010028] 	 field_product_type_tid changed; [entity_id: 5903] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010029] 	 field_product_type_tid changed; [entity_id: 5904] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010030] 	 field_product_type_tid changed; [entity_id: 5905] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010031] 	 field_product_type_tid changed; [entity_id: 5906] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010032] 	 field_product_type_tid changed; [entity_id: 5907] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010033] 	 field_product_type_tid changed; [entity_id: 5908] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010034] 	 field_product_type_tid changed; [entity_id: 5909] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010035] 	 field_product_type_tid changed; [entity_id: 5910] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010036] 	 field_product_type_tid changed; [entity_id: 5911] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010037] 	 field_product_type_tid changed; [entity_id: 5912] 	 from [110] to [147] 	 execute result : 1 
+SKU : [BA010038] 	 field_product_type_tid changed; [entity_id: 5913] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010039] 	 field_product_type_tid changed; [entity_id: 5914] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010040] 	 field_product_type_tid changed; [entity_id: 5915] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010041] 	 field_product_type_tid changed; [entity_id: 5916] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010042] 	 field_product_type_tid changed; [entity_id: 5917] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010043] 	 field_product_type_tid changed; [entity_id: 5918] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010044] 	 field_product_type_tid changed; [entity_id: 5919] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010045] 	 field_product_type_tid changed; [entity_id: 5920] 	 from [106] to [156] 	 execute result : 1 
+SKU : [BA010046] 	 field_product_type_tid changed; [entity_id: 5921] 	 from [109] to [158] 	 execute result : 1 
+SKU : [BA010047] 	 field_product_type_tid changed; [entity_id: 5922] 	 from [109] to [158] 	 execute result : 1 
+SKU : [BA010048] 	 field_product_type_tid changed; [entity_id: 5923] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010049] 	 field_product_type_tid changed; [entity_id: 5924] 	 from [108] to [159] 	 execute result : 1 
+SKU : [BA010050] 	 field_product_type_tid changed; [entity_id: 5925] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010051] 	 field_product_type_tid changed; [entity_id: 5926] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010052] 	 field_product_type_tid changed; [entity_id: 5927] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010053] 	 field_product_type_tid changed; [entity_id: 5928] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010054] 	 field_product_type_tid changed; [entity_id: 5929] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010055] 	 field_product_type_tid changed; [entity_id: 5930] 	 from [111] to [166] 	 execute result : 1 
+SKU : [BA010056] 	 field_product_type_tid changed; [entity_id: 5931] 	 from [111] to [166] 	 execute result : 1 
+SKU : [BA010057] 	 field_product_type_tid changed; [entity_id: 5932] 	 from [111] to [166] 	 execute result : 1 
+SKU : [BA010058] 	 field_product_type_tid changed; [entity_id: 5933] 	 from [111] to [166] 	 execute result : 1 
+SKU : [BA010059] 	 field_product_type_tid changed; [entity_id: 5934] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010060] 	 field_product_type_tid changed; [entity_id: 5935] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010061] 	 field_product_type_tid changed; [entity_id: 5936] 	 from [103] to [166] 	 execute result : 1 
+SKU : [BA010062] 	 field_product_type_tid changed; [entity_id: 5937] 	 from [103] to [166] 	 execute result : 1 
+SKU : [BA010063] 	 field_product_type_tid changed; [entity_id: 5938] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010064] 	 field_product_type_tid changed; [entity_id: 5939] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010065] 	 field_product_type_tid changed; [entity_id: 5940] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010066] 	 field_product_type_tid changed; [entity_id: 5941] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010067] 	 field_product_type_tid changed; [entity_id: 5942] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010068] 	 field_product_type_tid changed; [entity_id: 5943] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010069] 	 field_product_type_tid changed; [entity_id: 5944] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010070] 	 field_product_type_tid changed; [entity_id: 5945] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010071] 	 field_product_type_tid changed; [entity_id: 5946] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010072] 	 field_product_type_tid changed; [entity_id: 5947] 	 from [100] to [161] 	 execute result : 1 
+SKU : [BA010073] 	 field_product_type_tid changed; [entity_id: 5948] 	 from [100] to [161] 	 execute result : 1 
+SKU : [BA010074] 	 field_product_type_tid changed; [entity_id: 5949] 	 from [100] to [161] 	 execute result : 1 
+SKU : [BA010075] 	 field_product_type_tid changed; [entity_id: 5950] 	 from [99] to [126] 	 execute result : 1 
+SKU : [BA010076] 	 field_product_type_tid changed; [entity_id: 5951] 	 from [99] to [126] 	 execute result : 1 
+SKU : [BA010077] 	 field_product_type_tid changed; [entity_id: 5952] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010078] 	 field_product_type_tid changed; [entity_id: 5953] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010079] 	 field_product_type_tid changed; [entity_id: 5954] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010080] 	 field_product_type_tid changed; [entity_id: 5955] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010081] 	 field_product_type_tid changed; [entity_id: 5956] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010082] 	 field_product_type_tid changed; [entity_id: 5957] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010083] 	 field_product_type_tid changed; [entity_id: 5958] 	 from [101] to [162] 	 execute result : 1 
+SKU : [BA010084] 	 field_product_type_tid changed; [entity_id: 5959] 	 from [100] to [161] 	 execute result : 1 
+SKU : [BA010085] 	 field_product_type_tid changed; [entity_id: 5960] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010086] 	 field_product_type_tid changed; [entity_id: 5961] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010087] 	 field_product_type_tid changed; [entity_id: 5962] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010088] 	 field_product_type_tid changed; [entity_id: 5963] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010089] 	 field_product_type_tid changed; [entity_id: 5964] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010090] 	 field_product_type_tid changed; [entity_id: 5965] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010091] 	 field_product_type_tid changed; [entity_id: 5966] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010092] 	 field_product_type_tid changed; [entity_id: 5967] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010093] 	 field_product_type_tid changed; [entity_id: 5968] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010094] 	 field_product_type_tid changed; [entity_id: 5969] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010095] 	 field_product_type_tid changed; [entity_id: 5970] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010096] 	 field_product_type_tid changed; [entity_id: 5971] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010097] 	 field_product_type_tid changed; [entity_id: 5972] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010098] 	 field_product_type_tid changed; [entity_id: 5973] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010099] 	 field_product_type_tid changed; [entity_id: 5974] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010100] 	 field_product_type_tid changed; [entity_id: 5975] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010101] 	 field_product_type_tid changed; [entity_id: 5976] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010102] 	 field_product_type_tid changed; [entity_id: 5977] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010103] 	 field_product_type_tid changed; [entity_id: 5978] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010104] 	 field_product_type_tid changed; [entity_id: 5979] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010105] 	 field_product_type_tid changed; [entity_id: 5980] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010106] 	 field_product_type_tid changed; [entity_id: 5981] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010107] 	 field_product_type_tid changed; [entity_id: 5982] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010108] 	 field_product_type_tid changed; [entity_id: 5983] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010109] 	 field_product_type_tid changed; [entity_id: 5984] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010110] 	 field_product_type_tid changed; [entity_id: 5985] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010111] 	 field_product_type_tid changed; [entity_id: 5986] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010112] 	 field_product_type_tid changed; [entity_id: 5987] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010113] 	 field_product_type_tid changed; [entity_id: 5988] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010114] 	 field_product_type_tid changed; [entity_id: 5989] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010115] 	 field_product_type_tid changed; [entity_id: 5990] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010116] 	 field_product_type_tid changed; [entity_id: 5991] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010117] 	 field_product_type_tid changed; [entity_id: 5992] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010118] 	 field_product_type_tid changed; [entity_id: 5993] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010119] 	 field_product_type_tid changed; [entity_id: 5994] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010120] 	 field_product_type_tid changed; [entity_id: 5995] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010121] 	 field_product_type_tid changed; [entity_id: 5996] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010122] 	 field_product_type_tid changed; [entity_id: 5997] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010123] 	 field_product_type_tid changed; [entity_id: 5998] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010124] 	 field_product_type_tid changed; [entity_id: 5999] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010125] 	 field_product_type_tid changed; [entity_id: 6000] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010126] 	 field_product_type_tid changed; [entity_id: 6001] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010127] 	 field_product_type_tid changed; [entity_id: 6002] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010128] 	 field_product_type_tid changed; [entity_id: 6003] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010129] 	 field_product_type_tid changed; [entity_id: 6004] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010130] 	 field_product_type_tid changed; [entity_id: 6005] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010131] 	 field_product_type_tid changed; [entity_id: 6006] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010132] 	 field_product_type_tid changed; [entity_id: 6007] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010133] 	 field_product_type_tid changed; [entity_id: 6008] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010134] 	 field_product_type_tid changed; [entity_id: 6009] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010135] 	 field_product_type_tid changed; [entity_id: 6010] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010136] 	 field_product_type_tid changed; [entity_id: 6011] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010137] 	 field_product_type_tid changed; [entity_id: 6012] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010138] 	 field_product_type_tid changed; [entity_id: 6013] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010139] 	 field_product_type_tid changed; [entity_id: 6014] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010140] 	 field_product_type_tid changed; [entity_id: 6015] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010141] 	 field_product_type_tid changed; [entity_id: 6016] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010142] 	 field_product_type_tid changed; [entity_id: 6017] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010143] 	 field_product_type_tid changed; [entity_id: 6018] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010144] 	 field_product_type_tid changed; [entity_id: 6019] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010145] 	 field_product_type_tid changed; [entity_id: 6020] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010146] 	 field_product_type_tid changed; [entity_id: 6021] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010147] 	 field_product_type_tid changed; [entity_id: 6022] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010148] 	 field_product_type_tid changed; [entity_id: 6023] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010149] 	 field_product_type_tid changed; [entity_id: 6024] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010150] 	 field_product_type_tid changed; [entity_id: 6025] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010151] 	 field_product_type_tid changed; [entity_id: 6026] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010152] 	 field_product_type_tid changed; [entity_id: 6027] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010153] 	 field_product_type_tid changed; [entity_id: 6028] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010154] 	 field_product_type_tid changed; [entity_id: 6029] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010155] 	 field_product_type_tid changed; [entity_id: 6030] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010156] 	 field_product_type_tid changed; [entity_id: 6031] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010157] 	 field_product_type_tid changed; [entity_id: 6032] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010158] 	 field_product_type_tid changed; [entity_id: 6033] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010159] 	 field_product_type_tid changed; [entity_id: 6034] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010160] 	 field_product_type_tid changed; [entity_id: 6035] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010161] 	 field_product_type_tid changed; [entity_id: 6036] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010162] 	 field_product_type_tid changed; [entity_id: 6037] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010163] 	 field_product_type_tid changed; [entity_id: 6038] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010164] 	 field_product_type_tid changed; [entity_id: 6039] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010165] 	 field_product_type_tid changed; [entity_id: 6040] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010166] 	 field_product_type_tid changed; [entity_id: 6041] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010167] 	 field_product_type_tid changed; [entity_id: 6042] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010168] 	 field_product_type_tid changed; [entity_id: 6043] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010169] 	 field_product_type_tid changed; [entity_id: 6044] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010170] 	 field_product_type_tid changed; [entity_id: 6045] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010171] 	 field_product_type_tid changed; [entity_id: 6046] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010172] 	 field_product_type_tid changed; [entity_id: 6047] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010173] 	 field_product_type_tid changed; [entity_id: 6048] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010174] 	 field_product_type_tid changed; [entity_id: 6049] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010175] 	 field_product_type_tid changed; [entity_id: 6050] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010176] 	 field_product_type_tid changed; [entity_id: 6051] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010177] 	 field_product_type_tid changed; [entity_id: 6052] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010178] 	 field_product_type_tid changed; [entity_id: 6053] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010179] 	 field_product_type_tid changed; [entity_id: 6054] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010180] 	 field_product_type_tid changed; [entity_id: 6055] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010181] 	 field_product_type_tid changed; [entity_id: 6056] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010182] 	 field_product_type_tid changed; [entity_id: 6057] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010183] 	 field_product_type_tid changed; [entity_id: 6058] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010184] 	 field_product_type_tid changed; [entity_id: 6059] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010185] 	 field_product_type_tid changed; [entity_id: 6060] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010186] 	 field_product_type_tid changed; [entity_id: 6061] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010187] 	 field_product_type_tid changed; [entity_id: 6062] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010188] 	 field_product_type_tid changed; [entity_id: 6063] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010189] 	 field_product_type_tid changed; [entity_id: 6064] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010190] 	 field_product_type_tid changed; [entity_id: 6065] 	 from [89] to [156] 	 execute result : 1 
+SKU : [BA010191] 	 field_product_type_tid changed; [entity_id: 6066] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010192] 	 field_product_type_tid changed; [entity_id: 6067] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010193] 	 field_product_type_tid changed; [entity_id: 6068] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010194] 	 field_product_type_tid changed; [entity_id: 6069] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010195] 	 field_product_type_tid changed; [entity_id: 6070] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010196] 	 field_product_type_tid changed; [entity_id: 6071] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010197] 	 field_product_type_tid changed; [entity_id: 6072] 	 from [88] to [163] 	 execute result : 1 
+SKU : [BA010198] 	 field_product_type_tid changed; [entity_id: 6073] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010199] 	 field_product_type_tid changed; [entity_id: 6074] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010200] 	 field_product_type_tid changed; [entity_id: 6075] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010201] 	 field_product_type_tid changed; [entity_id: 6076] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010202] 	 field_product_type_tid changed; [entity_id: 6077] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010203] 	 field_product_type_tid changed; [entity_id: 6078] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010204] 	 field_product_type_tid changed; [entity_id: 6079] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010205] 	 field_product_type_tid changed; [entity_id: 6080] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010206] 	 field_product_type_tid changed; [entity_id: 6081] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010207] 	 field_product_type_tid changed; [entity_id: 6082] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010208] 	 field_product_type_tid changed; [entity_id: 6083] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010209] 	 field_product_type_tid changed; [entity_id: 6084] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010210] 	 field_product_type_tid changed; [entity_id: 6085] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010211] 	 field_product_type_tid changed; [entity_id: 6086] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010212] 	 field_product_type_tid changed; [entity_id: 6087] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010213] 	 field_product_type_tid changed; [entity_id: 6088] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010214] 	 field_product_type_tid changed; [entity_id: 6089] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010215] 	 field_product_type_tid changed; [entity_id: 6090] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010216] 	 field_product_type_tid changed; [entity_id: 6091] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010217] 	 field_product_type_tid changed; [entity_id: 6092] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010218] 	 field_product_type_tid changed; [entity_id: 6093] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010219] 	 field_product_type_tid changed; [entity_id: 6094] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010220] 	 field_product_type_tid changed; [entity_id: 6095] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010221] 	 field_product_type_tid changed; [entity_id: 6096] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010222] 	 field_product_type_tid changed; [entity_id: 6097] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010223] 	 field_product_type_tid changed; [entity_id: 6098] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010224] 	 field_product_type_tid changed; [entity_id: 6099] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010225] 	 field_product_type_tid changed; [entity_id: 6100] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010226] 	 field_product_type_tid changed; [entity_id: 6101] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010227] 	 field_product_type_tid changed; [entity_id: 6102] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010228] 	 field_product_type_tid changed; [entity_id: 6103] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010229] 	 field_product_type_tid changed; [entity_id: 6104] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010230] 	 field_product_type_tid changed; [entity_id: 6105] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010231] 	 field_product_type_tid changed; [entity_id: 6106] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010232] 	 field_product_type_tid changed; [entity_id: 6107] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010233] 	 field_product_type_tid changed; [entity_id: 6108] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010234] 	 field_product_type_tid changed; [entity_id: 6109] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010235] 	 field_product_type_tid changed; [entity_id: 6110] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010236] 	 field_product_type_tid changed; [entity_id: 6111] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010237] 	 field_product_type_tid changed; [entity_id: 6112] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010238] 	 field_product_type_tid changed; [entity_id: 6113] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010239] 	 field_product_type_tid changed; [entity_id: 6114] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010240] 	 field_product_type_tid changed; [entity_id: 6115] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010241] 	 field_product_type_tid changed; [entity_id: 6116] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010242] 	 field_product_type_tid changed; [entity_id: 6117] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010243] 	 field_product_type_tid changed; [entity_id: 6118] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010244] 	 field_product_type_tid changed; [entity_id: 6119] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010245] 	 field_product_type_tid changed; [entity_id: 6120] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010246] 	 field_product_type_tid changed; [entity_id: 6121] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010247] 	 field_product_type_tid changed; [entity_id: 6122] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010248] 	 field_product_type_tid changed; [entity_id: 6123] 	 from [90] to [158] 	 execute result : 1 
+SKU : [BA010249] 	 field_product_type_tid changed; [entity_id: 6124] 	 from [91] to [160] 	 execute result : 1 
+SKU : [BA010250] 	 field_product_type_tid changed; [entity_id: 6125] 	 from [91] to [160] 	 execute result : 1 
+SKU : [BA010251] 	 field_product_type_tid changed; [entity_id: 6126] 	 from [91] to [160] 	 execute result : 1 
+SKU : [BA010252] 	 field_product_type_tid changed; [entity_id: 6127] 	 from [91] to [160] 	 execute result : 1 
+SKU : [BA010253] 	 field_product_type_tid changed; [entity_id: 6128] 	 from [91] to [160] 	 execute result : 1 
+SKU : [BA010254] 	 field_product_type_tid changed; [entity_id: 6129] 	 from [91] to [160] 	 execute result : 1 
+SKU : [BA010255] 	 field_product_type_tid changed; [entity_id: 6130] 	 from [97] to [157] 	 execute result : 1 
+SKU : [BA010256] 	 field_product_type_tid changed; [entity_id: 6131] 	 from [97] to [157] 	 execute result : 1 
+SKU : [BA010257] 	 field_product_type_tid changed; [entity_id: 6132] 	 from [96] to [164] 	 execute result : 1 
+SKU : [BA010258] 	 field_product_type_tid changed; [entity_id: 6133] 	 from [97] to [157] 	 execute result : 1 
+SKU : [BA010259] 	 field_product_type_tid changed; [entity_id: 6134] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010260] 	 field_product_type_tid changed; [entity_id: 6135] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010261] 	 field_product_type_tid changed; [entity_id: 6136] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010262] 	 field_product_type_tid changed; [entity_id: 6137] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010263] 	 field_product_type_tid changed; [entity_id: 6138] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010264] 	 field_product_type_tid changed; [entity_id: 6139] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010265] 	 field_product_type_tid changed; [entity_id: 6140] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010266] 	 field_product_type_tid changed; [entity_id: 6141] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010267] 	 field_product_type_tid changed; [entity_id: 6142] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010268] 	 field_product_type_tid changed; [entity_id: 6143] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010269] 	 field_product_type_tid changed; [entity_id: 6144] 	 from [96] to [164] 	 execute result : 1 
+SKU : [BA010270] 	 field_product_type_tid changed; [entity_id: 6145] 	 from [96] to [164] 	 execute result : 1 
+SKU : [BA010271] 	 field_product_type_tid changed; [entity_id: 6146] 	 from [96] to [164] 	 execute result : 1 
+SKU : [BA010272] 	 field_product_type_tid changed; [entity_id: 6147] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010273] 	 field_product_type_tid changed; [entity_id: 6148] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010274] 	 field_product_type_tid changed; [entity_id: 6149] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010275] 	 field_product_type_tid changed; [entity_id: 6150] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010276] 	 field_product_type_tid changed; [entity_id: 6151] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010277] 	 field_product_type_tid changed; [entity_id: 6152] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010278] 	 field_product_type_tid changed; [entity_id: 6153] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010279] 	 field_product_type_tid changed; [entity_id: 6154] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010280] 	 field_product_type_tid changed; [entity_id: 6155] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010281] 	 field_product_type_tid changed; [entity_id: 6156] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010282] 	 field_product_type_tid changed; [entity_id: 6157] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010283] 	 field_product_type_tid changed; [entity_id: 6158] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010284] 	 field_product_type_tid changed; [entity_id: 6159] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010285] 	 field_product_type_tid changed; [entity_id: 6160] 	 from [94] to [155] 	 execute result : 1 
+SKU : [BA010286] 	 field_product_type_tid changed; [entity_id: 6161] 	 from [96] to [164] 	 execute result : 1 
+SKU : [BA010287] 	 field_product_type_tid changed; [entity_id: 6162] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010288] 	 field_product_type_tid changed; [entity_id: 6163] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010289] 	 field_product_type_tid changed; [entity_id: 6164] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010290] 	 field_product_type_tid changed; [entity_id: 6165] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010291] 	 field_product_type_tid changed; [entity_id: 6166] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010292] 	 field_product_type_tid changed; [entity_id: 6167] 	 from [97] to [157] 	 execute result : 1 
+SKU : [BA010293] 	 field_product_type_tid changed; [entity_id: 6168] 	 from [97] to [157] 	 execute result : 1 
+SKU : [BA010294] 	 field_product_type_tid changed; [entity_id: 6169] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010295] 	 field_product_type_tid changed; [entity_id: 6170] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010296] 	 field_product_type_tid changed; [entity_id: 6171] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010297] 	 field_product_type_tid changed; [entity_id: 6172] 	 from [107] to [157] 	 execute result : 1 
+SKU : [BA010298] 	 field_product_type_tid changed; [entity_id: 6173] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010299] 	 field_product_type_tid changed; [entity_id: 6174] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010300] 	 field_product_type_tid changed; [entity_id: 6175] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010301] 	 field_product_type_tid changed; [entity_id: 6176] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010302] 	 field_product_type_tid changed; [entity_id: 6177] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010303] 	 field_product_type_tid changed; [entity_id: 6178] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010304] 	 field_product_type_tid changed; [entity_id: 6179] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010305] 	 field_product_type_tid changed; [entity_id: 6180] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010306] 	 field_product_type_tid changed; [entity_id: 6181] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010307] 	 field_product_type_tid changed; [entity_id: 6182] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010308] 	 field_product_type_tid changed; [entity_id: 6183] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010309] 	 field_product_type_tid changed; [entity_id: 6184] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010310] 	 field_product_type_tid changed; [entity_id: 6185] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010311] 	 field_product_type_tid changed; [entity_id: 6186] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010312] 	 field_product_type_tid changed; [entity_id: 6187] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010313] 	 field_product_type_tid changed; [entity_id: 6188] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010314] 	 field_product_type_tid changed; [entity_id: 6189] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010315] 	 field_product_type_tid changed; [entity_id: 6190] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010316] 	 field_product_type_tid changed; [entity_id: 6191] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010317] 	 field_product_type_tid changed; [entity_id: 6192] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010318] 	 field_product_type_tid changed; [entity_id: 6193] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010319] 	 field_product_type_tid changed; [entity_id: 6194] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010320] 	 field_product_type_tid changed; [entity_id: 6195] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010321] 	 field_product_type_tid changed; [entity_id: 6196] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010322] 	 field_product_type_tid changed; [entity_id: 6197] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010323] 	 field_product_type_tid changed; [entity_id: 6198] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010324] 	 field_product_type_tid changed; [entity_id: 6199] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010325] 	 field_product_type_tid changed; [entity_id: 6200] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010326] 	 field_product_type_tid changed; [entity_id: 6201] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010327] 	 field_product_type_tid changed; [entity_id: 6202] 	 from [95] to [161] 	 execute result : 1 
+SKU : [BA010328] 	 field_product_type_tid changed; [entity_id: 6203] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010329] 	 field_product_type_tid changed; [entity_id: 6204] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010330] 	 field_product_type_tid changed; [entity_id: 6205] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010331] 	 field_product_type_tid changed; [entity_id: 6206] 	 from [93] to [147] 	 execute result : 1 
+SKU : [BA010332] 	 field_product_type_tid changed; [entity_id: 6207] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010333] 	 field_product_type_tid changed; [entity_id: 6208] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010334] 	 field_product_type_tid changed; [entity_id: 6209] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010335] 	 field_product_type_tid changed; [entity_id: 6210] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010336] 	 field_product_type_tid changed; [entity_id: 6211] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010337] 	 field_product_type_tid changed; [entity_id: 6212] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010338] 	 field_product_type_tid changed; [entity_id: 6213] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010339] 	 field_product_type_tid changed; [entity_id: 6214] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010340] 	 field_product_type_tid changed; [entity_id: 6215] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010341] 	 field_product_type_tid changed; [entity_id: 6216] 	 from [98] to [162] 	 execute result : 1 
+SKU : [BA010342] 	 field_product_type_tid changed; [entity_id: 6217] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010343] 	 field_product_type_tid changed; [entity_id: 6218] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010344] 	 field_product_type_tid changed; [entity_id: 6219] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010345] 	 field_product_type_tid changed; [entity_id: 6220] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010346] 	 field_product_type_tid changed; [entity_id: 6221] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010347] 	 field_product_type_tid changed; [entity_id: 6222] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010348] 	 field_product_type_tid changed; [entity_id: 6223] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010349] 	 field_product_type_tid changed; [entity_id: 6224] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010350] 	 field_product_type_tid changed; [entity_id: 6225] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010351] 	 field_product_type_tid changed; [entity_id: 6226] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010352] 	 field_product_type_tid changed; [entity_id: 6227] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010353] 	 field_product_type_tid changed; [entity_id: 6228] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010354] 	 field_product_type_tid changed; [entity_id: 6229] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010355] 	 field_product_type_tid changed; [entity_id: 6230] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010356] 	 field_product_type_tid changed; [entity_id: 6231] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010357] 	 field_product_type_tid changed; [entity_id: 6232] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010358] 	 field_product_type_tid changed; [entity_id: 6233] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010359] 	 field_product_type_tid changed; [entity_id: 6234] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010360] 	 field_product_type_tid changed; [entity_id: 6235] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010361] 	 field_product_type_tid changed; [entity_id: 6236] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010362] 	 field_product_type_tid changed; [entity_id: 6237] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010363] 	 field_product_type_tid changed; [entity_id: 6238] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010364] 	 field_product_type_tid changed; [entity_id: 6239] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010365] 	 field_product_type_tid changed; [entity_id: 6240] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010366] 	 field_product_type_tid changed; [entity_id: 6241] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010367] 	 field_product_type_tid changed; [entity_id: 6242] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010368] 	 field_product_type_tid changed; [entity_id: 6243] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010369] 	 field_product_type_tid changed; [entity_id: 6244] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010370] 	 field_product_type_tid changed; [entity_id: 6245] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010371] 	 field_product_type_tid changed; [entity_id: 6246] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010372] 	 field_product_type_tid changed; [entity_id: 6247] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010373] 	 field_product_type_tid changed; [entity_id: 6248] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010374] 	 field_product_type_tid changed; [entity_id: 6249] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010375] 	 field_product_type_tid changed; [entity_id: 6250] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010376] 	 field_product_type_tid changed; [entity_id: 6251] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010377] 	 field_product_type_tid changed; [entity_id: 6252] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010378] 	 field_product_type_tid changed; [entity_id: 6253] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010379] 	 field_product_type_tid changed; [entity_id: 6254] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010380] 	 field_product_type_tid changed; [entity_id: 6255] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010381] 	 field_product_type_tid changed; [entity_id: 6256] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010382] 	 field_product_type_tid changed; [entity_id: 6257] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010383] 	 field_product_type_tid changed; [entity_id: 6258] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010384] 	 field_product_type_tid changed; [entity_id: 6259] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010385] 	 field_product_type_tid changed; [entity_id: 6260] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010386] 	 field_product_type_tid changed; [entity_id: 6261] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010388] 	 field_product_type_tid changed; [entity_id: 6262] 	 from [99] to [126] 	 execute result : 1 
+SKU : [BA010389] 	 field_product_type_tid changed; [entity_id: 6263] 	 from [102] to [158] 	 execute result : 1 
+SKU : [BA010390] 	 field_product_type_tid changed; [entity_id: 6264] 	 from [102] to [158] 	 execute result : 1 
+SKU : [BA010391] 	 field_product_type_tid changed; [entity_id: 6265] 	 from [99] to [126] 	 execute result : 1 
+SKU : [BA010392] 	 field_product_type_tid changed; [entity_id: 6266] 	 from [104] to [156] 	 execute result : 1 
+SKU : [BA010393] 	 field_product_type_tid changed; [entity_id: 6267] 	 from [104] to [156] 	 execute result : 1 
+SKU : [BA010394] 	 field_product_type_tid changed; [entity_id: 6268] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010395] 	 field_product_type_tid changed; [entity_id: 6269] 	 from [92] to [166] 	 execute result : 1 
+SKU : [BA010396] 	 field_product_type_tid changed; [entity_id: 6270] 	 from [99] to [126] 	 execute result : 1 
+SKU : [BA010397] 	 field_product_type_tid changed; [entity_id: 6271] 	 from [99] to [126] 	 execute result : 1 
+SKU : [BA010399] 	 field_product_type_tid changed; [entity_id: 6272] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA010400] 	 field_product_type_tid changed; [entity_id: 6273] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA010401] 	 field_product_type_tid changed; [entity_id: 6274] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA010402] 	 field_product_type_tid changed; [entity_id: 6275] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA010405] 	 field_product_type_tid changed; [entity_id: 6276] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020001] 	 field_product_type_tid changed; [entity_id: 6278] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020002] 	 field_product_type_tid changed; [entity_id: 6279] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020003] 	 field_product_type_tid changed; [entity_id: 6280] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020004] 	 field_product_type_tid changed; [entity_id: 6281] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020005] 	 field_product_type_tid changed; [entity_id: 6282] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020006] 	 field_product_type_tid changed; [entity_id: 6283] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020007]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA020008] 	 field_product_type_tid changed; [entity_id: 6285] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020009] 	 field_product_type_tid changed; [entity_id: 6286] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020010]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020011]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020011B]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020011C]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020011D]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020011E]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020011F]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020012] 	 field_product_type_tid changed; [entity_id: 6294] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020013] 	 field_product_type_tid changed; [entity_id: 6295] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020014] 	 field_product_type_tid changed; [entity_id: 6296] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020015] 	 field_product_type_tid changed; [entity_id: 6297] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020016] 	 field_product_type_tid changed; [entity_id: 6298] 	 from [145] to [154] 	 execute result : 1 
+SKU : [BA020017] 	 field_product_type_tid changed; [entity_id: 6299] 	 from [135] to [156] 	 execute result : 1 
+SKU : [BA020018] 	 field_product_type_tid changed; [entity_id: 6300] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020019] 	 field_product_type_tid changed; [entity_id: 6301] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020020] 	 field_product_type_tid changed; [entity_id: 6302] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020021] 	 field_product_type_tid changed; [entity_id: 6303] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020022] 	 field_product_type_tid changed; [entity_id: 6304] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020023] 	 field_product_type_tid changed; [entity_id: 6305] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020024] 	 field_product_type_tid changed; [entity_id: 6306] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020025] 	 field_product_type_tid changed; [entity_id: 6307] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020026] 	 field_product_type_tid changed; [entity_id: 6308] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020027] 	 field_product_type_tid changed; [entity_id: 6309] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020028]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020029] 	 field_product_type_tid changed; [entity_id: 6311] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020030]	 field_product_type_tid is same , no change; 	 OLD[141]  NEW[141] 
+SKU : [BA020031] 	 field_product_type_tid changed; [entity_id: 6313] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020032] 	 field_product_type_tid changed; [entity_id: 6314] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020033] 	 field_product_type_tid changed; [entity_id: 6315] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020034]	 field_product_type_tid is same , no change; 	 OLD[141]  NEW[141] 
+SKU : [BA020035] 	 field_product_type_tid changed; [entity_id: 6317] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020036]	 field_product_type_tid is same , no change; 	 OLD[133]  NEW[133] 
+SKU : [BA020037] 	 field_product_type_tid changed; [entity_id: 6319] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020038] 	 field_product_type_tid changed; [entity_id: 6320] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020039] 	 field_product_type_tid changed; [entity_id: 6321] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020040] 	 field_product_type_tid changed; [entity_id: 6322] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020041] 	 field_product_type_tid changed; [entity_id: 6323] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020042] 	 field_product_type_tid changed; [entity_id: 6324] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020043] 	 field_product_type_tid changed; [entity_id: 6325] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020044] 	 field_product_type_tid changed; [entity_id: 6326] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020045] 	 field_product_type_tid changed; [entity_id: 6327] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020046]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020047] 	 field_product_type_tid changed; [entity_id: 6329] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020048] 	 field_product_type_tid changed; [entity_id: 6330] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020049]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020050]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020050B]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020050C]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020050D]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020050E]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020050F]	 field_product_type_tid is same , no change; 	 OLD[147]  NEW[147] 
+SKU : [BA020051] 	 field_product_type_tid changed; [entity_id: 6338] 	 from [152] to [165] 	 execute result : 1 
+SKU : [BA020052] 	 field_product_type_tid changed; [entity_id: 6339] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020053] 	 field_product_type_tid changed; [entity_id: 6340] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020054] 	 field_product_type_tid changed; [entity_id: 6341] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020055] 	 field_product_type_tid changed; [entity_id: 6342] 	 from [145] to [154] 	 execute result : 1 
+SKU : [BA020056]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020057] 	 field_product_type_tid changed; [entity_id: 6344] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020058] 	 field_product_type_tid changed; [entity_id: 6345] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020059] 	 field_product_type_tid changed; [entity_id: 6346] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020060] 	 field_product_type_tid changed; [entity_id: 6347] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020061] 	 field_product_type_tid changed; [entity_id: 6348] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020062] 	 field_product_type_tid changed; [entity_id: 6349] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020063] 	 field_product_type_tid changed; [entity_id: 6350] 	 from [151] to [163] 	 execute result : 1 
+SKU : [BA020064] 	 field_product_type_tid changed; [entity_id: 6351] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020065] 	 field_product_type_tid changed; [entity_id: 6352] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020066] 	 field_product_type_tid changed; [entity_id: 6353] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020067]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020068] 	 field_product_type_tid changed; [entity_id: 6355] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020069]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020070] 	 field_product_type_tid changed; [entity_id: 6357] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020071] 	 field_product_type_tid changed; [entity_id: 6358] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020072] 	 field_product_type_tid changed; [entity_id: 6359] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020073] 	 field_product_type_tid changed; [entity_id: 6360] 	 from [146] to [160] 	 execute result : 1 
+SKU : [BA020074] 	 field_product_type_tid changed; [entity_id: 6361] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020075]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA020076] 	 field_product_type_tid changed; [entity_id: 6363] 	 from [136] to [156] 	 execute result : 1 
+SKU : [BA020077] 	 field_product_type_tid changed; [entity_id: 6364] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA020078] 	 field_product_type_tid changed; [entity_id: 6365] 	 from [144] to [126] 	 execute result : 1 
+SKU : [BA030001] 	 field_product_type_tid changed; [entity_id: 6366] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030002] 	 field_product_type_tid changed; [entity_id: 6367] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030003] 	 field_product_type_tid changed; [entity_id: 6368] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030004] 	 field_product_type_tid changed; [entity_id: 6369] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030005] 	 field_product_type_tid changed; [entity_id: 6370] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030006] 	 field_product_type_tid changed; [entity_id: 6371] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030007] 	 field_product_type_tid changed; [entity_id: 6372] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030008] 	 field_product_type_tid changed; [entity_id: 6373] 	 from [140] to [166] 	 execute result : 1 
+SKU : [BA030009]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030010]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030011]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030012]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030013]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030014]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030015]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030016]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030017]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030018]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030019]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030020]	 field_product_type_tid is same , no change; 	 OLD[134]  NEW[134] 
+SKU : [BA030021] 	 field_product_type_tid changed; [entity_id: 6386] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030022] 	 field_product_type_tid changed; [entity_id: 6387] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030023] 	 field_product_type_tid changed; [entity_id: 6388] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030024] 	 field_product_type_tid changed; [entity_id: 6389] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030025] 	 field_product_type_tid changed; [entity_id: 6390] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030026] 	 field_product_type_tid changed; [entity_id: 6391] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030027] 	 field_product_type_tid changed; [entity_id: 6392] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030028] 	 field_product_type_tid changed; [entity_id: 6393] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030029] 	 field_product_type_tid changed; [entity_id: 6394] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030030] 	 field_product_type_tid changed; [entity_id: 6395] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030031] 	 field_product_type_tid changed; [entity_id: 6396] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030032] 	 field_product_type_tid changed; [entity_id: 6397] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030033] 	 field_product_type_tid changed; [entity_id: 6398] 	 from [137] to [157] 	 execute result : 1 
+SKU : [BA030034] 	 field_product_type_tid changed; [entity_id: 6399] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030035] 	 field_product_type_tid changed; [entity_id: 6400] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030036] 	 field_product_type_tid changed; [entity_id: 6401] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030037] 	 field_product_type_tid changed; [entity_id: 6402] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030038] 	 field_product_type_tid changed; [entity_id: 6403] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030039] 	 field_product_type_tid changed; [entity_id: 6404] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030040] 	 field_product_type_tid changed; [entity_id: 6405] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030041] 	 field_product_type_tid changed; [entity_id: 6406] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030042] 	 field_product_type_tid changed; [entity_id: 6407] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030043] 	 field_product_type_tid changed; [entity_id: 6408] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030044] 	 field_product_type_tid changed; [entity_id: 6409] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030045] 	 field_product_type_tid changed; [entity_id: 6410] 	 from [138] to [126] 	 execute result : 1 
+SKU : [BA030046] 	 field_product_type_tid changed; [entity_id: 6411] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030047] 	 field_product_type_tid changed; [entity_id: 6412] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030048] 	 field_product_type_tid changed; [entity_id: 6413] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030049] 	 field_product_type_tid changed; [entity_id: 6414] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030050] 	 field_product_type_tid changed; [entity_id: 6415] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030051] 	 field_product_type_tid changed; [entity_id: 6416] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030052] 	 field_product_type_tid changed; [entity_id: 6417] 	 from [139] to [158] 	 execute result : 1 
+SKU : [BA030053]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030054]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030055]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030056]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030057]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030058]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030059]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030060]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030061]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030062]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030063]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030064]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030065]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030066]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030067]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030068]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030069]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030070] 	 field_product_type_tid changed; [entity_id: 6435] 	 from [149] to [161] 	 execute result : 1 
+SKU : [BA030071] 	 field_product_type_tid changed; [entity_id: 6436] 	 from [149] to [161] 	 execute result : 1 
+SKU : [BA030072] 	 field_product_type_tid changed; [entity_id: 6437] 	 from [149] to [161] 	 execute result : 1 
+SKU : [BA030073]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030074]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030075]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030076]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030077]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030078]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030079]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030080]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030081]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030082]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030083]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030084]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030085]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030086]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030087]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030088]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030089]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030090]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030091]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030092]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030093]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BA030094]	 field_product_type_tid is same , no change; 	 OLD[148]  NEW[148] 
+SKU : [BC050001]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050002]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050003]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050004]	 field_product_type_tid is same , no change; 	 OLD[153]  NEW[153] 
+SKU : [BC050005]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050006]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050007]	 field_product_type_tid is same , no change; 	 OLD[153]  NEW[153] 
+SKU : [BC050008]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050009]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050010]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050011]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050012]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050013]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050014]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050015]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050016]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050017]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050018]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050019]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050020]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050021]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050022]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050023]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050024]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050025]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050026]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050027]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050028]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050029]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050030]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050031]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050032]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050033]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050034]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050035]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050036]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050037]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050038]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050039]	 field_product_type_tid is same , no change; 	 OLD[153]  NEW[153] 
+SKU : [BC050040]	 field_product_type_tid is same , no change; 	 OLD[153]  NEW[153] 
+SKU : [BC050041]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050042]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050043]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050044]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050045]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050046]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050047]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050048]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050049]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050050]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050051]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050052]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050053]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050054]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050055]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050056]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050057]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050058]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050059]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050060]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050061]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050062]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050063]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050064]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050065]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050066]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050067]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050068]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050069]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050070]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050071]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050072]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050073]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050074]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050075]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050076]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050077]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050078]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050079]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050080]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050083]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BC050084]	 field_product_type_tid is same , no change; 	 OLD[150]  NEW[150] 
+SKU : [BE010001] 	 field_product_type_tid changed; [entity_id: 6460] 	 from [142] to [86] 	 execute result : 1 
+SKU : [BE010002] 	 field_product_type_tid changed; [entity_id: 6461] 	 from [115] to [166] 	 execute result : 1 
+SKU : [BE010003] 	 field_product_type_tid changed; [entity_id: 6462] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010004] 	 field_product_type_tid changed; [entity_id: 6463] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010005] 	 field_product_type_tid changed; [entity_id: 6464] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010006] 	 field_product_type_tid changed; [entity_id: 6465] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010007] 	 field_product_type_tid changed; [entity_id: 6466] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010008] 	 field_product_type_tid changed; [entity_id: 6467] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010009] 	 field_product_type_tid changed; [entity_id: 6468] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010010] 	 field_product_type_tid changed; [entity_id: 6469] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010011] 	 field_product_type_tid changed; [entity_id: 6470] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010012] 	 field_product_type_tid changed; [entity_id: 6471] 	 from [116] to [159] 	 execute result : 1 
+SKU : [BE010013] 	 field_product_type_tid changed; [entity_id: 6472] 	 from [116] to [159] 	 execute result : 1 
+SKU : [BE010014] 	 field_product_type_tid changed; [entity_id: 6473] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010015] 	 field_product_type_tid changed; [entity_id: 6474] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010016] 	 field_product_type_tid changed; [entity_id: 6475] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010017] 	 field_product_type_tid changed; [entity_id: 6476] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010018] 	 field_product_type_tid changed; [entity_id: 6477] 	 from [116] to [159] 	 execute result : 1 
+SKU : [BE010019] 	 field_product_type_tid changed; [entity_id: 6478] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010020] 	 field_product_type_tid changed; [entity_id: 6479] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010021] 	 field_product_type_tid changed; [entity_id: 6480] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010022] 	 field_product_type_tid changed; [entity_id: 6481] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010023] 	 field_product_type_tid changed; [entity_id: 6482] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010024] 	 field_product_type_tid changed; [entity_id: 6483] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010025] 	 field_product_type_tid changed; [entity_id: 6484] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010026] 	 field_product_type_tid changed; [entity_id: 6485] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010027] 	 field_product_type_tid changed; [entity_id: 6486] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010028] 	 field_product_type_tid changed; [entity_id: 6487] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010029] 	 field_product_type_tid changed; [entity_id: 6488] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010030] 	 field_product_type_tid changed; [entity_id: 6489] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010031] 	 field_product_type_tid changed; [entity_id: 6490] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010032] 	 field_product_type_tid changed; [entity_id: 6491] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010033] 	 field_product_type_tid changed; [entity_id: 6492] 	 from [116] to [159] 	 execute result : 1 
+SKU : [BE010034] 	 field_product_type_tid changed; [entity_id: 6493] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010035] 	 field_product_type_tid changed; [entity_id: 6494] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010036] 	 field_product_type_tid changed; [entity_id: 6495] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010037] 	 field_product_type_tid changed; [entity_id: 6496] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010038] 	 field_product_type_tid changed; [entity_id: 6497] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010039] 	 field_product_type_tid changed; [entity_id: 6498] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010040] 	 field_product_type_tid changed; [entity_id: 6499] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010041] 	 field_product_type_tid changed; [entity_id: 6500] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010042] 	 field_product_type_tid changed; [entity_id: 6501] 	 from [115] to [166] 	 execute result : 1 
+SKU : [BE010043] 	 field_product_type_tid changed; [entity_id: 6502] 	 from [115] to [166] 	 execute result : 1 
+SKU : [BE010044] 	 field_product_type_tid changed; [entity_id: 6503] 	 from [116] to [159] 	 execute result : 1 
+SKU : [BE010045] 	 field_product_type_tid changed; [entity_id: 6504] 	 from [115] to [166] 	 execute result : 1 
+SKU : [BE010046] 	 field_product_type_tid changed; [entity_id: 6505] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010047] 	 field_product_type_tid changed; [entity_id: 6506] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010048] 	 field_product_type_tid changed; [entity_id: 6507] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010049] 	 field_product_type_tid changed; [entity_id: 6508] 	 from [112] to [156] 	 execute result : 1 
+SKU : [BE010050]	 field_product_type_tid is same , no change; 	 OLD[118]  NEW[118] 
+SKU : [BE010051]	 field_product_type_tid is same , no change; 	 OLD[118]  NEW[118] 
+SKU : [BE010052] 	 field_product_type_tid changed; [entity_id: 6511] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010053] 	 field_product_type_tid changed; [entity_id: 6512] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010054] 	 field_product_type_tid changed; [entity_id: 6513] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010055] 	 field_product_type_tid changed; [entity_id: 6514] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010056] 	 field_product_type_tid changed; [entity_id: 6515] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010057] 	 field_product_type_tid changed; [entity_id: 6516] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010058] 	 field_product_type_tid changed; [entity_id: 6517] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010059] 	 field_product_type_tid changed; [entity_id: 6518] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010060] 	 field_product_type_tid changed; [entity_id: 6519] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010061] 	 field_product_type_tid changed; [entity_id: 6520] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010062] 	 field_product_type_tid changed; [entity_id: 6521] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010063] 	 field_product_type_tid changed; [entity_id: 6522] 	 from [113] to [156] 	 execute result : 1 
+SKU : [BE010064]	 field_product_type_tid is same , no change; 	 OLD[117]  NEW[117] 
+SKU : [BE010065] 	 field_product_type_tid changed; [entity_id: 6524] 	 from [114] to [0] 	 execute result : 1 
+SKU : [BE010066] 	 field_product_type_tid changed; [entity_id: 6525] 	 from [142] to [86] 	 execute result : 1 
+SKU : [BE010067] 	 field_product_type_tid changed; [entity_id: 6526] 	 from [142] to [86] 	 execute result : 1 
+SKU : [BE010068] 	 field_product_type_tid changed; [entity_id: 6527] 	 from [142] to [86] 	 execute result : 1 
